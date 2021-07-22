@@ -5,7 +5,10 @@ import numpy
 class LinearAlgebra:
     def check_mat_mul(self, m, n, a):
         num = numpy()
-        return
+        ans = num.matmul(m,n)
+        if a == ans:
+            return True
+        return False
     def check_mat_inv(self):
         return
     def check_mat_add(self):
