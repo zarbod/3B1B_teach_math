@@ -15,5 +15,7 @@ class LinearAlgebra:
         return
     def check_mat_lamda(self):
         return
+    def check_mat_cofactors(self):
+        return
     def play(self):
         return
