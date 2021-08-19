@@ -7,3 +7,5 @@ class teach_groups:
     print("Correct!")
   else:
     print("Incorrect! The correct answer is B, since raising any negative number to the one half power results in an imaginary number, which is not an element of the real numbers")
+
+  l1 = "A subgroup is a subset of a group that also forms a group"
